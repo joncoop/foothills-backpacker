@@ -8,11 +8,12 @@ categories: gear
 youtube-id:
 
 photos:
-  - img:
-    caption:
-  - img:
-    caption:
-  - img:
+  - full: https://dummyimage.com/1200x600/bbb/fff
+    thumb: https://dummyimage.com/160x160/bbb/fff
+    caption: Caption 1
+  - full: https://dummyimage.com/1200x600/bbb/fff
+    thumb: https://dummyimage.com/160x160/bbb/fff
+    caption: Caption 2
 ---
 
 
@@ -30,4 +31,7 @@ Put the bandanna and game pieces in a small stuff sack.
 
 #### Step 4
 
-Have fun playing chess on the trail!
+Have fun on the trail!
+
+
+{% include gallery.html %}
