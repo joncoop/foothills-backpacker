@@ -11,7 +11,7 @@ type: Point-to-point
 distance: 13 miles
 days: 3
 waypoints:
-  - location: 	Sloan Bridge parking
+  - location: Sloan Bridge parking
     url: https://goo.gl/maps/vERup
     type: start
   - location: Walhalla Fish Hatchery
