@@ -1,29 +1,27 @@
 ---
-layout: post
-title:  "Whitewater Falls to Foothills Trail/Fork Mountain Loop"
-date:   2016-03-29
-categories: hike
+layout: trip-report
+title: "Whitewater Falls to Foothills Trail/Fork Mountain Loop"
+date: 2016-03-29
+categories: trips
 
+# Quick info
+summary: |
+  I’ve done the Foothills Trail/Fork Mountain loop several times. On this trip, I tacked on a 4.7 mile spur to the Whitewater Falls parking area mostly because a friend needed to hike that section to complete the Foothills Trail. This was a four-day trip, but I only hiked for two. The middle days were spent at camp fishing, reading, drinking beer, and playing with fire.
 type: Loop
 distance: 28 miles
 days: 4
-map: 	Official Map of the Foothills Trail
-map-url: http://www.foothillstrail.org/store
 waypoints:
   - location: Whitewater Falls Parking
-    map-url: https://goo.gl/maps/6W5NHPM5eKn
+    url: https://goo.gl/maps/6W5NHPM5eKn
     type: start/finish
+maps:
+- name: Official Map of the Foothills Trail
+  url: http://www.foothillstrail.org/store
+
+# Media
+youtube-id:
 ---
 
-### Quick info:
-
-{% include quick-info.html %}
-
-### Summary
-
-I’ve done the Foothills Trail/Fork Mountain loop several times. On this trip, I tacked on a 4.7 mile spur to the Whitewater Falls parking area mostly because a friend needed to hike that section to complete the Foothills Trail. This was a four-day trip, but I only hiked for two. The middle days were spent at camp fishing, reading, drinking beer, and playing with fire.
-
-### Trip details:
 
 #### Day 1 – Whitewater Falls Parking to East Fork Creek (13.5 miles)
 
