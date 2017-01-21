@@ -2,7 +2,7 @@
 layout: post
 title:  "Whitewater Falls to Foothills Trail/Fork Mountain Loop"
 date:   2016-03-29
-categories: trips
+categories: hike
 
 type: Loop
 distance: 28 miles
