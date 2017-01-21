@@ -1,3 +1,9 @@
+---
+layout: page
+title: About
+permalink: /about/
+---
+
 ## Gear
 
 [Summer – Ultralight](http://lighterpack.com/r/1bcfyu)
