@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Beer bottle alcohol stove"
-date:   2015-05-16
+date:   2015-01-31
 categories: gear
 
 # Media
