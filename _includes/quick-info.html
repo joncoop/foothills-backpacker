@@ -1,0 +1,26 @@
+<table>
+  <tr>
+    <th>Type</th>
+    <td>{{ page.type }}</td>
+  </tr>
+  <tr>
+    <th>Distance</th>
+    <td>{{ page.type }}</td>
+  </tr>
+  <tr>
+    <th>Days</th>
+    <td>{{ page.days }}</td>
+  </tr>
+  <tr>
+    <th>Map</th>
+    <td><a href="{{ page.map-url }}">{{ page.map }}</a></td>
+  </tr>
+  <tr>
+    <th>Directions</th>
+    <td>
+      {% for item in page.waypoints %}
+        <a href="{{ item.map-url }}">{{ item.location }}</a> ({{ item.type }})<br>
+      {% endfor %}
+    </td>
+  </tr>
+</table>
